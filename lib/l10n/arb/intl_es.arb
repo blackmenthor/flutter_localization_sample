@@ -1,0 +1,14 @@
+{
+  "@@last_modified": "2019-12-17T11:57:25.098015", 
+  "title": "Hola Aplicacion Mundial", 
+  "@title": {
+    "description": "The application title", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "hello": "Hola", 
+  "@hello": {
+    "type": "text", 
+    "placeholders": {}
+  }
+}

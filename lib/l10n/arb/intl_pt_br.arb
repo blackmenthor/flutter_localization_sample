@@ -1,0 +1,14 @@
+{
+  "@@last_modified": "2019-12-17T11:57:25.098015", 
+  "title": "Ol\u00e1 Mundo Aplica\u00e7\u00e3o", 
+  "@title": {
+    "description": "The application title", 
+    "type": "text", 
+    "placeholders": {}
+  }, 
+  "hello": "Ol\u00e1", 
+  "@hello": {
+    "type": "text", 
+    "placeholders": {}
+  }
+}
